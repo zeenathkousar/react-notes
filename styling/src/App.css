@@ -1,0 +1,10 @@
+.Two{
+  background-color: rgb(227, 184, 128);
+color: aliceblue;
+padding: 100px;
+width: 15%;
+border-radius: 10px;
+margin-left: 33%;
+text-align: center;
+box-shadow: 10px 10px 5px gray;
+}
